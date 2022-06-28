@@ -23,8 +23,8 @@ Start the server
   npm run start
 ```
 Go to localhost:3000.
-Make sure your project if running on localhost is 
-up on a different port. Now enter any url or a path to any HTML file on your machine.
+Make sure your project, if running on localhost, is 
+up on a different port. Now enter any url or a path to any HTML file on your machine in the form.
 
 ## Tech Stack
 
